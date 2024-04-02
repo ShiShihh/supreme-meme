@@ -8,6 +8,7 @@
 There are 15 infrared sequences in Anti-MUAV15, each sequence contains 1000-2000 images. Labels for each sequence are located in its corresponding image folder.
 
 - The dataset encompasses scenes featuring buildings, sky, trees and so on.
+In addition to the challenges encountered in single UAV tracking, such as tiny target, blurred vision, changes in visual perspective, and noise, Anti-MUAV15 also presents challenges such as occlusion between objects and similar appearances.
 <img src="https://github.com/Shihan0325/Anti-MUAV15/blob/main/image/vision.png" width="1000px"/>
 
 
